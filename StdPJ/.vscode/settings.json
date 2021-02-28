@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "spirit_aes.h": "c",
+        "app_main.h": "c",
+        "stm32l475e_iot01.h": "c",
+        "vl53l0x_proximity.h": "c",
+        "stm32l475e_iot01_tsensor.h": "c",
+        "sensors_data.h": "c",
+        "timedate.h": "c",
+        "net.h": "c",
+        "iot_flash_config.h": "c",
+        "msg.h": "c",
+        "cloud.h": "c",
+        "rfu.h": "c",
+        "stm32l475e_iot01_psensor.h": "c",
+        "exositehttp.h": "c",
+        "version.h": "c",
+        "flash.h": "c",
+        "stm32l475e_iot01_gyro.h": "c",
+        "stm32l475e_iot01_hsensor.h": "c"
+    }
+}
